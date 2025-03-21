@@ -1,0 +1,10 @@
+1 | You start your shift at a busy restaurant. Do you: 1) Greet customers at the front 2) Head straight to the kitchen | 2 | 3
+2 | A customer complains about a wrong order. Do you: 1) Apologize and offer a free dessert 2) Check with the kitchen about the mistake | 4 | 5
+3 | The head chef asks for help plating dishes. Do you: 1) Assist with plating 2) Start preparing drinks | 6 | 7
+4 | The customer is pleased with the dessert and leaves a good review. | -1 | -1
+5 | The kitchen staff confirms the mistake. Do you: 1) Offer to remake the dish 2) Ask the manager for advice | 8 | 9
+6 | The chef is impressed with your plating skills. Do you: 1) Continue helping in the kitchen 2) Go check on tables | 10 | 3
+7 | You start making drinks but accidentally spill a smoothie. Do you: 1) Clean up and try again 2) Ask another server for help | -1 | 6
+8 | The remake is perfect, and the customer leaves happy. | -1 | -1
+9 | The manager suggests a discount. Do you: 1) Offer it to the customer 2) Try a different approach | 4 | 3
+10 | The kitchen staff teaches you a special dish. Do you: 1) Learn and help cook more 2) Return to serving customers | -1 | 3
